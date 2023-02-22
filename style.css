@@ -146,13 +146,10 @@ h3 {
     }
 
     .imgmobile {
-        margin: 0;
-        padding: 0;
         display: block;
         width: 100%;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
-        margin-bottom: 0;
     }
 
     .cartao {
@@ -161,10 +158,11 @@ h3 {
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        width: 50vh;
+        width: 40vh;
         height: auto;
         border-radius: 10px;
         box-shadow: 0px 5px 10px 10px rgba(167, 143, 138, 0.184);
+        margin-top: 200px;
     }
 
     .texto {
